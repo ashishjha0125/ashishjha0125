@@ -5,7 +5,7 @@
 
 ### ⭐ About Me
 
-- 🚀 I’m currently working on **Zomato Clone**, **Metro QR System**, and a **Railway Track Monitor**
+- 🚀 I’m currently working Railway Track Monitor
 - 🧠 I’m currently learning **Solidity**, **DSA in Java**, and **Unix Systems**
 - 👯 I’m looking to collaborate on **Blockchain + Web Dev Projects**
 - 💬 Ask me about: `HTML`, `CSS`, `JavaScript`, `Solidity`, `React`, `Java`, `MongoDB`
